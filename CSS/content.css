@@ -1,0 +1,266 @@
+html{
+  background: #F3F6FF;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: 'Spectral', serif;
+  margin: 0 auto;
+  background-color: #F3F6FF;
+}
+
+.first_screen {
+  position: relative;
+  text-align: center;
+  height: 950px;
+  background-image: url('../images/first.svg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.zag{
+  color: #4C73FF;
+  position: relative;
+  font-family: Spectral;
+  font-size: 220px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 200px;
+  padding-top: 240px;
+  margin: 45px auto;
+}
+
+.podzag{
+  color: #4C73FF;
+  position: relative;
+  font-family: Spectral;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 115%; /* 32.2px */
+  opacity: 0.8;
+}
+
+.second_screen{
+  margin: -80px 0px 0px 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 -10px 0 -10px;
+  color: #4C73FF;
+}
+
+#thirdimg{
+  position: relative;
+}
+
+#instrument{
+  position: relative;
+  margin: -90px 0 -170px 0;
+  z-index: 10;
+}
+
+.fourth_screen{
+  position: relative;
+  padding-top: 86px;
+  padding-bottom: 112px;
+  background-color: #4C73FF;
+  color: #F3F6FF;
+}
+
+#center4{
+  margin: 30px auto 0;
+  width: 1060px;
+}
+
+#text1_4, #text2_4, #text3_4, #text4_4, #text5_4{
+  display: flex;
+  align-items: baseline;
+}
+
+
+.fifth_screen{
+  position: relative;
+}
+
+.razdel1{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 60px 0 30px 0;
+}
+
+#textaper{
+  color: #4C73FF;
+  font-family: Spectral;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 115%;
+  padding: 0 84px 0 84px;
+}
+
+#textnabor{
+  color: #4C73FF;
+  font-family: Spectral;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 115%;
+  padding: 0 84px 0 84px;
+}
+
+#n{
+  margin: 80px 0 0 0;
+}
+
+#eskiz{
+  margin: -170px 0 -170px 0;
+}
+
+#busi{
+  margin: -870px 0 -170px 0;
+  width: 100vw;
+  transform: rotate(-5deg)
+}
+
+.chisla{
+  position: relative;
+  margin: -300px 0 60px 0;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+#chis{
+  color: #4C73FF;
+  font-family: Spectral;
+  font-size: 200px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 115%;
+}
+
+#spets{
+  color: #4C73FF;
+  font-family: Spectral;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 115%;
+}
+
+.chisbril{
+  background-color: #4C73FF;
+  display: flex;
+  justify-content: center;
+  padding: 50px 0 50px 0;
+}
+
+.six_screen{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  margin: 100px 0 0 0;
+}
+
+#firstblock{
+  color: #4C73FF;
+  font-family: Spectral;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 115%;
+}
+
+#secondblock{
+  color: #4C73FF;
+  font-family: Spectral;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 115%;
+}
+
+#thirdblock{
+  color: #4C73FF;
+  font-family: Spectral;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 115%;
+}
+
+#fourthblock{
+  color: #4C73FF;
+  font-family: Spectral;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 115%;
+}
+
+#firstblock_text{
+  display: flex;
+  justify-content: space-between;
+}
+
+#secondblock_text{
+  display: flex;
+  justify-content: space-between;
+}
+
+#thirdblock_text{
+  display: flex;
+  justify-content: space-between;
+}
+
+#fourthblock_text{
+  display: flex;
+  justify-content: space-between;
+}
+
+.seven_block{
+  height: 914px;
+  margin: 80px auto 0;
+  background: url('../images/magaz.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#lastspectral{
+  display: flex;
+  justify-content: center;
+  padding-top: 75px;
+  padding-left: 75px;
+}
+
+#last{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 980px;
+  margin: 80px auto 0;
+}
+
+#centerlast1{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#centerlast2{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 250px;
+}
+
+#centerlast3{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+margin-left: -10px;
+}

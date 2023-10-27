@@ -1,0 +1,72 @@
+@import "reset.css";
+@import "content.css";
+
+@font-face {
+    font-family: "Spectral-Bold";
+    src: url("../font/Spectral/Spectral-Bold.ttf")
+}
+
+@font-face {
+    font-family: "Spectral-BoldItalic";
+    src: url("../font/Spectral/Spectral-BoldItalic.ttf")
+}
+
+@font-face {
+    font-family: "Spectral-ExtraBold";
+    src: url("../font/Spectral/Spectral-ExtraBold.ttf")
+}
+
+@font-face {
+    font-family: "Spectral-ExtraBoldItalic";
+    src: url("../font/Spectral/Spectral-ExtraBoldItalic.ttf")
+}
+
+@font-face {
+    font-family: "Spectral-ExtraLight";
+    src: url("../font/Spectral/Spectral-ExtraLight.ttf")
+}
+
+@font-face {
+    font-family: "Spectral-ExtraLightItalic";
+    src: url("../font/Spectral/Spectral-ExtraLightItalic.ttf")
+}
+
+@font-face {
+    font-family: "Spectral-Italic";
+    src: url("../font/Spectral/Spectral-Italic.ttf")
+}
+
+@font-face {
+    font-family: "Spectral-Light";
+    src: url("../font/Spectral/Spectral-Light.ttf")
+}
+
+@font-face {
+    font-family: "Spectral-LightItalic";
+    src: url("../font/Spectral/Spectral-LightItalic.ttf")
+}
+
+@font-face {
+    font-family: "Spectral-Medium";
+    src: url("../font/Spectral/Spectral-Medium.ttf")
+}
+
+@font-face {
+    font-family: "Spectral-MediumItalic";
+    src: url("../font/Spectral/Spectral-MediumItalic.ttf")
+}
+
+@font-face {
+    font-family: "Spectral-Regular";
+    src: url("../font/Spectral/Spectral-Regular.ttf")
+}
+
+@font-face {
+    font-family: "Spectral-SemiBold";
+    src: url("../font/Spectral/Spectral-SemiBold.ttf")
+}
+
+@font-face {
+    font-family: "Spectral-SemiBoldItalic";
+    src: url("../font/Spectral/Spectral-SemiBoldItalic.ttf")
+}
