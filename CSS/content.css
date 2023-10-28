@@ -51,6 +51,20 @@ body {
   color: #4C73FF;
 }
 
+.normalfont{
+  font-size: 85px; 
+  font-family: Spectral; 
+  text-align: center;
+  font-style: normal;
+}
+
+.italicfont{
+  font-size: 85px; 
+  font-family: Spectral; 
+  text-align: center;
+  font-style: italic;
+}
+
 #thirdimg{
   position: relative;
 }
