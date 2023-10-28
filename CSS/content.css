@@ -255,6 +255,14 @@ body {
   justify-content: center;
   padding-top: 75px;
   padding-left: 75px;
+  color: #4C73FF; 
+  font-family: Spectral; 
+  font-size: 145px; 
+  font-style: italic; 
+  font-weight: 500; 
+  line-height: normal; 
+  letter-spacing: 53.65px; 
+  text-transform: uppercase;
 }
 
 #last{
